@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Başlangıç uygulaması olan counter uygulamasının Bloc kullanarak geliştirilmiş halidir. Referans olarak görülebilir.
 
 A few resources to get you started if this is your first Flutter project:
 
